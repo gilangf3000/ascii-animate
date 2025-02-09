@@ -15,4 +15,4 @@ python app.py
 ## Donasi  
 
 Dukung proyek ini:  
-[Klik di sini untuk donasi](https://saweria.co/gilangf3000)
+[Saweria](https://saweria.co/gilangf3000)

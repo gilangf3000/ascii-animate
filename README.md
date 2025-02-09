@@ -10,3 +10,9 @@ cd ascii-animate
 pip install -r requirements.txt  
 cd mode-jam-terbang  # atau chill-guy  
 python app.py
+
+
+## Donasi  
+
+Dukung proyek ini:  
+[Klik di sini untuk donasi](https://saweria.co/gilangf3000)

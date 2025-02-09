@@ -1,0 +1,75 @@
+                                                              ttttttttfffffffffffffftttttttttt                                                        
+                                                        ttttttttttfffffffffffffffffffftttttttt                                                        
+                                                      ttttttttfffffffffffffffffffffffftttttttttt                                                      
+                                                      ttttttttfffffffffffffffffffffffffffftttttttttt                                                  
+                                                          ttttttffffffffffffffLLfffffffffffffffffftttttttt                                            
+                                                              ttttttffffffffffLLLLfffffffffffffffffffftttttttt                                        
+                                                        ttttttfffffffffffffffffffffffffffffffffffftttttttttttt                                        
+                                                      ttttttffffffffffttttffffffffffffttttttttfffftttttt    tttt                tt                    
+                                                  ttttttfffffffffftttttttttttttttttttttttttttttt            tt          tttttttttttttt                
+                                                tttttttttttttttttttttttttttttttttttttttttttt            tttttttt        tttttttttttttttt              
+                                              ttttttttttttttttttttttttttfffftttttttttttt                tttttttt    tttttttttttttttttttttt            
+                                      tt          tttttt          ttttffffLLLLLLfffftttttttt          ttffffffffttttttttttttfffftttttttttttt          
+                                    tttttttttttttttttttt          ttffffLLCCCCGGCCCCLLLLfffftttttttt    ttttfffffffftttttttttttttttttttttttttt        
+                                  tttttttttttttttttttt      ttttttLLLLCCGGGG0000GGGGGGCCLLffffttttttttttttffLLLLffffffttttttttttfffftttttttttttttttt  
+  tttttttt                  ttttttttttttttttttttffffffttttttffLLCCCCGG00000088880000GGCCLLLLffffttttttttfffffffffffffffffffffffffffffftttttttttttttttt
+tttttttt                    ttttttttttttttffffffffttttttffLLCCCCGG0000008800888800GGCCCCLLLLffffffffffLLLLLLLLffffffffffffffffffffffffffttttttttffffff
+tt                      ttttttttttttttttttffffffffffttttffLLCCGG000088888800888800GGCCCCCCCCLLffffffffffLLLLLLffffLLLLLLLLLLffffffffffffffttttttfftttt
+                        ttttttttttttttttttttffffLLLLffffffffffLLCCGG00000000008888880000GGGGCCCCCCLLLLffffffffLLLLffLLLLLLLLLLLLfffffffffffftttttttttt
+                        ttttttttttttttttttffffLLLLLLLLffffffLLLLCCGG00000088888888000000GGCCCCCCCCLLffffffLLLLLLLLLLLLLLLLLLLLLLLLfffffffffffffftttttt
+                    ttttttttttttttttttffffffLLLLLLffffffffLLCCCCGGGG000000888888000000GGCCCCCCCCLLffttffffLLLLLLCCCCCCLLLLLLLLLLLLLLfffffffffffffftttt
+                    ttttttttttttttttffffffffLLLLLLffttttffLLLLCCCCGGGGGG008888000000GGGGCCCCLLLLffttffLLLLLLLLLLCCCCCCLLCCLLLLLLLLLLLLfffffffffffffftt
+                    ttttttttttttttttffffffffffffffffffffttffLLLLLLCCCCGGGG000000000000GGCCCCCCCCLLffffLLLLLLCCLLLLLLLLLLCCLLLLLLLLLLLLLLffffffffffffff
+                  ttttttttttttttttttffffffffffffffffLLLLffffffLLCCCCGGGGGGGG0000888888000000GGCCCCLLLLLLLLLLCCCCCCLLLLLLCCLLLLLLLLLLLLLLLLffffffffffff
+                  ttttttttttttttttffffffffffffffffffLLLLLLLLCCGG000000GGGG008888008888888800GGLLLLLLCCCCCCCCCCCCLLLLLLLLLLCCCCCCLLLLLLLLLLLLffffffffff
+                ttttttttttttttttffffffffffffffffffffLLLLCCCCCCGG00000000GGGG000000008888888800GGLLLLGGGGCCCCCCCCLLLLLLLLLLCCCCCCCCLLLLLLLLLLffffffffff
+              ttttttttttttttttttffffffffffffffffffffLLLLCCGGCCCCGG000088000000000000008888888800GGCCGGGGCCCCCCCCLLLLLLLLCCCCCCCCCCCCLLLLLLLLLLffffffff
+              ttttttttttttttttffffffffffffffffffffLLLLCCGGCCLLCCGG00000000888888000000880000GGCCCCGGCCCCCCCCLLLLLLCCCCCCCCCCCCCCCCCCCCLLLLLLLLLLLLffff
+            ttttttttttttttttttffffffffffffffffffffLLLLLLLLLLLLCCCCGGGGGG0000888888000000GGGGGGCCLLCCLLCCLLLLLLLLCCCCGGGGCCCCCCCCCCCCCCCCLLLLLLLLLLffff
+          ttttttttttttttttttffffffffffffffffffffffLLffffffLLLLCCCCGGGG00GGGG0088888888GGCCGGGGCCLLffffffffLLCCGGGGGGGGGGGGGGCCCCCCCCCCCCCCLLLLLLLLLLff
+          ttttttttttttttttffffffffffffffffffffffffffffffffLLLLCCGGGG00000000888888888800GGGGCCLLLLffttffLLCCGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCCCLLLLLLLLLL
+          ttttttttttttffffffffffffffffffffffffLLLLffffffffLLLLCCCCCCGG008888888888888800GGCCLLffffffffLLLLCCGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCCCLLLLLLLLLL
+      ttttttttttttttttffffffffffffffffffffffLLLLLLLLLLLLLLLLCCCCCCCC0000888888888800GGCCLLffffttttffLLCCCCGGGGGGGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCLLLLLLLL
+      ttttttttttttttttffffffffffffffffffLLLLLLLLLLLLLLLLLLLLLLffLLLLGG00008888880000CCLLfftt  ffLLLLLLLLLLLLCCGGGGGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCLLLLLL
+      ttttttttttttttffffffffffffffffffffLLLLLLLLLLCCCCCCLLLLLLffLLLLCCGG000000GGCCLLffttttttttffLLLLLLLLCCGGGGGGGGGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCLLLLLL
+      ttttttttttttttffffffffffffffffffffLLLLLLLLLLLLCCCCCCCCCCCCLLLLLLLLCCCCCCCCLLfftttt      ttLLLLLLLLLLLLCCCCGGGGGGGGGGGGGGGGGGGGCCCCCCCCCCCCCCLLLL
+      ttttttttttttffffffffffffffffffffffffffLLLLLLLLCCCCCCCCGGGGCCCCLLLLfffffftttttttt        ttffLLLLLLLLLLLLLLCCCCCCGGGGGGGGGGGGGGGGCCCCCCCCCCCCLLLL
+ttttttttttttttffffffffffffffffLLLLLLLLLLLLLLLLLLLLLLCCCCCCCCGGGGGGGGCCCCCCLLfftttttttttttt          ttttffffffffffLLLLLLLLCCCCCCCCGGCCCCCCCCCCCCCCLLLL
+ttttttffffffLLffLLLLffLLCCCCCCCCCCCCCCCCCCCCGGGGGGGGGGCCCC0000CCGGGGGGCCLLLLLLLLLLfftt                  ttffffLLLLLLLLLLLLCCCCCCGGCCGGGGCCCCCCCCLLLLLL
+ttttttffLLCCCCCCCCCCLLLLCCCCGGGGGGGGGGGGGGGGGGGG0000GGCCCCGGGGCCLLCCGG00GGCCCCCCLLfftt                      ttffffttttttttttttffffffLLCCCCCCCCLLLLLLff
+ttttffLLCCCCCCCCCCCCffLLLLCCCCCCCCCCCCCCCCCCCCCCGGGGGGGGCCLLLLttffCC00000000CCLLfftt                                                ffLLCCCCLLLLffffff
+ttffLLCCCCCCLLLLffffffffffffffffffffLLLLffLLLLLLLLCCCCLLfftt  ttCC008800GGLLfffftt                                                ttffffLLLLffffffffff
+ttffLLLLLLLLffffffttttttttttttttttttffffffffffffffttttttffttttffCC0000GGLLfftttt                                                        ttffffffffffff
+    ttffLLLLfffffftttttt      tt  ttttttfffffffftt      ttLLLLffLLCCCCGGLLtt                                                                  ttttffff
+        ttttfftttttttttt  tt            ttfffffftt        ttLLLLLLffLLLLLLtt    tttt      tt                                                        tt
+              tttt  tt  tttt            ttttfffftt        ttffLLLLLLLLfftt    tttttt  tttttt    tt                                                    
+                      tttt                  tttttttttt      ttttLLLLfffftttttt  ttttttttttttttfftt                                                    
+                        tttt                    tttttt    tttt  ttLLfftttttt    ttttffffffffffffLLtt                                                  
+                        tttt                        ttfffftt    tt    ffLLffttttttttffLLLLLLffLLfftttt                                                
+                        tt                          ttfffftt  ttttttffffff    ttffffffffLLLLffLLfftttt                                                
+                        tt                        ttfffftt  ttttffffffttttttttffffffffffLLLLLLLLfffftttttt                                            
+                                                      ttffffffttttttttttttttttffffffffffffffLLLLLLLLttffttfftt                                        
+                                                ttttfftt    fffftt    ttttffffffffttffffLLLLLLLLfffffffftt  tttt                                      
+                                                ttffff    ttffffttttttttffffffffttttffffLLLLLLffffffffff    fftttt                                    
+                                            tttttttt    ttffttttttttffffffffttttttffffffffLLLLffffLLfftttttttttt                                      
+                                        tttttttt    tttt  ttffttffffffffffttttttffLLLLffffffLLCCffLLLLfftttttttt                                      
+                                          tttttttt    tt  ttttffffLLffffttttttffffLLLLLLffffffCCLLLLLLfftttttttt                                      
+                                          tttttttt    ffffffffffLLLLffttffffffLLLLLLffLLLLLLLLCCLLCCCCLLffLLLLfftt                                    
+                                        tttt      ffffttffCCLLCCLLLLLLLLLLLLCCCCCCLLCCLLLLCCCCLLCCCCCCCCCCCCLLLLfftt                                  
+                                            ttLLCCffffLLffLLLLLLCCLLLLLLLLffLLCCCCLLffLLCCLLCCCCLLCCLLffCCCCLLfftt                                    
+                                          ttffCCLLLLffLLLLCCffLLLLLLLLCCffffCCCCCCffffCCLLLLCCLLLLCCffttCCCCfftttt                                    
+tt                                        ttffLLffLLLLLLCCLLLLffLLLLCCLLLLCCLLCCLLLLLLffLLCCLLCCCCLLffLLLLLLtt                                        
+                                              ttttffffffffffffffLLLLLLffLLLLLLLLLLLLffffffLLLLLLLLLLLLttttfffftt                                      
+                                                        ttffffffffffffffffffffffffffttttttfffffffffftttt                                              
+                                              tt          ttffffffffffffffffffffffttttffffttttttfffftt                                                
+                  tttttt          ttfftttt  ttttffff    ttttLLLLLLLLffffLLLLLLLLLLLLLLLLLLffffffffLLfftttttt      ttfffftt                            
+          tttttttttttttt      ttfffftt  ttLLLLLLffttttffffLLCCCCLLffLLCCCCCCCCCCCCCCCCCCttLLCCCCCCLL      tt  ttLLLLLLLL            tttttt            
+          tttttt    tttttttt      ffLLff    ffLLLLCCffffffffLLCCCCLLffffCCCCCCLLLLLLLLLLLLttffCCCCCCLLtt  tttt  ttLLLLLLff            tttttt          
+            tttt          ttffff    ffLLLLtt  ttCCCCCCCCLLffffffCCCCLLttffLLCCCCffffffffttffttttLLCCLLLLLLff      ttLLLLfffftt          tttttt        
+            tt            tttt    ttfffftt  ttLLCCCCCCLLLLffffCCCCLLffttLLCCCCLLffffttttttttttLLCCCCLLLLfftt    ttLLLLLLfftt          tttt            
+                                  ffLLLLtt  ttLLCCCCCCCCLLffffCCCCCCffttffCCCCCCLLffffffttttttffLLLLLLCCLLtt  ttffLLLLLLLLff        tttttt            
+                              ffLLff    ffLLLLLLLLCCLLffLLCCCCLLffffCCCCCCCCCCCCCCLLLLffffLLLLffLLLLfftt  ffLLffffLLLLtt      ttffff                  
+                              ttLLLLtt    LLCCLLffLLLLLLLLLLCCCCffttffCCCCCCCCCCCCCCLLff  ttLLLLffffLLffttttLLLLttffLLff        tttt                  
+                              ffLLff    ffLLLLffffffLLLLLLCCCCLLttttLLCCLLffffffffffff    ttLLLLttffLLffffffLLttttLLff        tttttt                  
+                          tt  ttfffftt  ttffLLffffttttLLLLLLCCLLffttffLLLLfftttt            LLLLff  ttLLLLfffftt  ttff        tttttt                  
+                      tttt  ttttffttttttttfffftt  ttffffLLLLLLffffffffffffff              ffLLttttttfffffffftttttt            tttt                    

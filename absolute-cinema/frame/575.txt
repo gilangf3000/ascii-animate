@@ -1,0 +1,75 @@
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                      ttfffftt                                                                        
+                                                                  LLCCCCLLLLLLLLLLtt                                                                  
+                                                                LLCCCCLLLLLLLLLLLLLL                    tt                                            
+                                                      tt    ttttLLCCCCLLLLLLLLLLLLLL                ttfftt                                            
+                          ffffff                      tt        ffCCCCLLLLLLLLLLffff              fffffftt                                            
+                        ffLLfftt                                ttCCCCLLLLLLLLfffftt            fffffftttt                  CCCCLL                    
+                        CCCCfffftt                  ff            CCCCLLLLLLLLfffftt          ffLLLLfftttt                ttGGGGCCtt    ffLL          
+                        CCLLffff                                  LLCCLLLLLLLLffff            CCLLLLLLtt                  ttGGGGCCff  ttCCLLLL        
+                        CCtttttt      tt    tttttttttttt          ffLLLLLLLLLLffff            ffCCCCLLff        GG00LL      GGGGCCCC  ffCCLLLL        
+                        CCffLLLLtt    tttttttttttttttttt            CCLLLLLLLLfftt              ffCCLLff      LL000000ff    LLGGGGCC  ffCCLLLL        
+tttt                    CCLLLLtt      tttttttttttttttttt            LLLLLLLLLLff                    LLtt      tt000000GG    ffGGGGCC  ffCCCCLL    tt  
+LLLLtt                  ffLLffff    ttttfffffffffffffffftt          ttLLLLLLLLff                                LLGG0000ff    GGGGGGttffCCCCLL  LLLLLL
+LLLLtt                    LLffff    ttffffffffffffffffff              LLLLLLfftt                                  CCGG00GG    CCGGGGttffCCCCff  LLLLLL
+LLLLtt                tttttttt          tttt  ttfffffffftt            ffLLLLff                                      GGGG00LL  CCGGGGffffCCCCffttLLLLLL
+LLLLtt  LL                  tt                  ttffLLff                LLLLtt                                      ffGG0000ttLLGGGGffffCCCCttffLLLLtt
+ttCCtt                                              ffff                  tt                                          CCGG00LLLLGGGGCCLLCCCCttLLCCLL  
+  CCtt                                                                                                                ttGG00GGGGGGGGGGGGGGCCLLCCCCff  
+  LLtt                            tt                                                              ffff                  CC00000000GGGGGGGGCCCCCCCC    
+  fftt                                                                                                                  ff00000000GGGGGGGGGGCCCCCC    
+  fftt                ttffffffttttttfftt                                                                                tt00000000GGGGGGGGGGCCCCCC    
+  ttfftt            LLffffLLCCLLffffffLL              tt                                                      888800ff  tt0000000000GGGGGGGGCCCCCC    
+  tttt                  ttffLLLLfftt            ff  tt                                                      CC88888888GGCC8800000000GGGGGGGGCCCCLL    
+    tt  LLffCC  GGtt00  CCLL00LLLLCC00  LL00  tt88ffLL                                          ttff        ff8800000000008800000000GGGGGGGGCCCCff    
+        CC      GGttGGCCCCff00LLttCCGG  GG00  GGLLCCtt                ffCCLLtt                  LLLL          ffLLCCGGGG000000000000GGGGGGGGCCCCtt    
+        CC      GGttLLLL00tt00    CCffGGLL00  88CCCC                tt00CCff                    LLGG                ffLLGG0000000000GGGGGGGGCCLL      
+        ffLLCC  GGttLL  00  00CCLLCCtt00  00LLLLttGGCCtt            CC00CCLLtt                ffttff            ttttttffCCGGGG0000GGGGGGGGCCCCff      
+        fffffffffffffffffftttt    ttfffftt      ttLL                CCGGffLL      ttttttttttttttttff            ttttttttLLCCGGGGGGGGGGGGCCCCLL        
+      LLCCGGGGGGGGGGGGGGLLLLCC  ttLL00CCfftttt  tt                  CCCCffLLtt    ttttttttttttttttff          tttttt  ttLLLLLLCCCCCCCCCCCCLLLLtt      
+    ffGGLLCCCCCCCCLLLLfftt        CCGGfftttttt                      CCGGCCLL      ttttttttttttttff            ttfftt    ffffttffffLLLLLLffttttLL      
+    LLCCLLLLCCLLtt    fftttttt  ttGGLLfftttt                        ffGGLLLL    ttfffffffffffffffftt            ttff  ttffLLLLtt    ttfftt  ffLLtt    
+    ttLLtttttt    tt          ttttLLfftttt              tt            LLLLLL    fffffffffffffffffftt              tttt                    ttffLL      
+      ttfftttt                  LLfftttt              ttff  ttttttttffttff        ttttttttLLfffffftt                tt                ttttffff        
+                                fftttt                GGCC              ff                  ffLLLL                                                    
+                                tt                                                            ttff                                                    
+                                                                              tt                                                          tttttt      
+    tt                                                  tt                                                                        tt      tttttt      
+    ff  tt                                              tt            tt      tt                                                tttttttttttttttttt    
+    ff  ff                                              tt    ffttLLCCCCCCCCffffffff            ffCC                            tttttttttttttttttttt  
+  ttLLfftt                                              tt    ffffLLttffLLLLtttt                LLCC                          tttttttttttttttttttttt  
+  ttLLff                                                      ttGGCCffGG00CCLLGGLL  00tt  00    LLLL                          tttttttttttttttttttttt  
+  ttLLff                        ttfffftt      tttttttt  tt  ttttCCGGLLCC00CCttGGff                            tttt                              tttttt
+  ttLLLLff                      ffCCCCff        ttttttttttttttttffLL00CCGG    GG                  tt        CCCCCCLL                            tttttt
+ttttfftt                        ffLLLLff      ttttttttttttttttttffffttffLLCCLLLL        ttLL      ttLLtt    LLCCLLff      fftt      tttt        tttttt
+tttttt                        ttffLLLLfftt    ttttttttttffttttttffff                00LLGG00  tt    LLCC    ffLLLLff    LLLL    tt  LLGG  GG    tttttt
+tttt                        ttffLLffffLLffttttttttttttttffffttfffftt              tt88CC00GG  88LL  LLff      LLLLtt      ff    00ffttGGttGGtt  tttttt
+tt                          ttttttLLLLtttt  ttffffffffffffffffffff              LL0000CC88LLGG00tttt  tt      ffff              LLGGttGGffCCffCCtttttt
+tt                          tt  ffLLLLtt  ttffffffffffffffffffffff              ff88GG0088CC88ffttttfftt        tt                CCLLCCLLCCfffftttt  
+                                  ffff    ffffffffffffffLLffffffff                8888888888CC      fftt                          ttCCGGCCCCCCtttttt  
+                          tttttttt          ttffffffffffLLffffffff                0088888888ff  tt  tt                              GGGGCCCCCC  tt    
+          ttLLtt            tt  fftt                    LLLLLLLLLL                GG88888888008800    ttfftt          tt      LLGGCCGGCCCCCCLL        
+  tt      tttt                  tt                        ffLLLLLL  ffffffttttff  ff8888888800fftt    LL00GG  fftt  LLGGCC      ttLLCCCCCCCCff        
+tt                                                            ttfftt00ffGG88CC00  tt008888GGLLttGGff    CCGGffCCffLLCCCC          ttLLLLLLLL          
+tt                                    tttt                        ttGG  ff88CC00  LLGGGGLLffttttLLtt    CCCCLLLLffLLLLLLtt          tt  tttttt        
+                                        tt                        tt88GG0000LL88LLttfftt      tttt      ttfffffffffffftt                              
+                                                                                tttttt        tt                                                      
+                            ttttttttttttttfftt                    tt              tttttttt                ttCCLLffLLtt                                
+                        ffffffffLLfffffffffftt                ttLLGGGGGGGGGGGGGGLLffffffff                  GG00GGGGtt                                
+                                                              LLLLGG888888888888CCffffLL                    ttCCCCff                                  
+            ffffff  LL  CC    LLttCCCCLLffCC    GGff  ttCC    ffLLCC8888LLttttttffffLLLL                                            tttt              
+            tt  tt  LL  CCLL  CCttLL    LLGG  ttGGff  CCGG    ffCCCC0000CCfffftt  ffLLff          tt                                  tt              
+          tt        LL  LLffffLLttCCLLttffLLLLLLLLff  CCffLL  ffLLLL0000000000CC  ffLLfftttttt  ffttttffff                                            
+            tt  tt  LL  LL  LLLLttff    ffttCCCCffffffGGCCGG  ttLLLL0000CCLLLLff  ffffLLGGGGCCCCffffttLLffff  tttt                                    
+            ttfftt  ff  ff    ff  LLLLLLttttttttttttLL    LL  ttffff0000ff      ttffffCCCCCCLLLLffCCLLLLLLLLLLttLLttffff    ff                        
+                                                                tttt000000GGGG00LL    ttfffffffftt                                                    
+                                                                    GGGGGGGGGGGGff    GGCCCCCCffGGffGGttttLLffCCLLLLttLLLL    LL    ffff              
+                                                                                      GGtt    ttGGttCCCCLLLLffCCff    ffLLttffff    tttt              
+                                                                                      GGffttttttCCttLLttCCLLttLLtt    ffffLLffff  ttfftttt            
+                                                                                      tttttttt  tt            tttttt                                  
+                                                                                                                                                      
